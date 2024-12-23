@@ -1,6 +1,6 @@
 # AI Webcam
 
-Fully-interactive webcam AI assistant you can run at home!
+Fully-interactive webcam AI assistant you can run at home!.
 
 Implemented with latest Whisper3 + GPT-4-Vision + OpenAI TTS and a WebRTC browser front-end for speed.
 
